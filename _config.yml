@@ -5,7 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: bettiblue.github.io
 
 # Jekyll configuration
 
@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: bettiblue 
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
